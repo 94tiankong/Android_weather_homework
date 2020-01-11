@@ -1,0 +1,3 @@
+forecast.xml line8  #8000->@color/colorPrimary
+activity_weather.xml line13 visible->invisible
+mark
